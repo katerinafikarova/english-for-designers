@@ -1,6 +1,6 @@
 # Letterform and Haiku
 
-![This is a placeholder description of an imag eof tools.]()
+![This is a placeholder description of an image of tools.](image.png)
 
 Like kinetic sand.  
 Dough held surprisingly well.   
