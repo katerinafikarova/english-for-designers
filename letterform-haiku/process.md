@@ -1,4 +1,4 @@
-# Letterform: Uppercase K – Process
+# Letterform: Uppercase K - Process
 
 Honey gingerbread cookie, carved by hand, baked and glazed.
 
