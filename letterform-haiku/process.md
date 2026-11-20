@@ -164,3 +164,19 @@ Dough held surprisingly well
 Scent of Christmas time  
 
 See [the finished page](index.md).
+
+## Alternate alt text
+
+- **Detail:** A brown gingerbread K with straight, slightly uneven edges. The diagonal arms meet the stem in a sharp point, and the glaze has dried in thin streaks.
+- **Mood:** A single homemade gingerbread letter on a plain white plate, simple and a little imperfect, like a cookie saved from a Christmas baking day.
+- **Material:** A close look at baked honey gingerbread shaped into a K. The surface is grainy and matte, and the white egg-white glaze shines where it pooled.
+
+## References
+
+- Paul Rand: [Design and the Play Instinct](https://www.paulrand.design/writing/articles/1965-design-and-the-play-instinct.html). Time pressure was my limit, and it still left room to play.
+- Matthew Carter: [My life in typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces). The material changes the form: dough made me choose a letter with only straight lines.
+- John Gruber: [Proof-of-Human](https://daringfireball.net/linked/2026/10/10/proof-of-human). The process photos show decisions that the final cookie alone does not.
+
+[The finished Letterform and Haiku](index.md)
+
+---
