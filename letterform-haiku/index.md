@@ -1,7 +1,15 @@
-# Letterform and Haiku
+# Letterform and Haiku: Uppercase K
 
-![This is a placeholder description of an image of tools.](image.png)
+## Letterform
+
+![An uppercase K cut from honey gingerbread lies on a white plate. Thin white glaze runs across it in uneven, splashy lines.](img/letterform-k.png)
+
+## Haiku
 
 Like kinetic sand.  
-Dough held surprisingly well.   
+Dough held surprisingly well.  
 Scent of Christmas time.  
+
+## Process
+
+[How I made this Letterform](process.md)
